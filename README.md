@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Tech Stack
+ 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,angular,nextjs,nodejs,express,mysql,mongodb,php,html,css,tailwind,go" />
+</p>
+ 
+
+ 
