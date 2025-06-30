@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Ritik Chakrawarty!
 
-🚀 A passionate **Senior Full Stack Developer** currently working at **Capital Now**, with previous experience at **NPCI** on cutting-edge projects like **UPI AutoPay**, **CBDC**, and **CIBIL integrations**.
+🚀 A passionate **Senior Full Stack Developer** currently working at **Capital Now**, with previous experience at **NPCI**. Worked on cutting-edge projects like **UPI AutoPay**, **CBDC**, and **CIBIL integrations**.
 
 🛠️ I love building robust backend systems, working with distributed architectures, and experimenting with emerging technologies like **Go**, **Kubernetes**, and **blockchain**.
 
